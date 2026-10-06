@@ -4,7 +4,7 @@
 >
 > Four domains → individual techniques → technical notes → practical labs → AI red teaming.
 
-> [⬅ My Hacking Hub](https://github.com/romeo-mhakayakora/CPTS) · [🌐 CPTS Notes Site](https://romeo-mhakayakora.github.io/CPTS/)
+> [⬅ My Hacking Hub](https://github.com/romeo-mhakayakora/Hacking-Hub) · [🌐 CPTS Notes Site](https://romeo-mhakayakora.github.io/CPTS/)
 
 ---
 
